@@ -25,11 +25,3 @@ Images from various tennis matches obtained via RoboFlow include multiple tennis
 
 
 ![clay412_jpg rf aacb7c5d89b372b3ca686dd69abca001](https://github.com/user-attachments/assets/c744429e-648f-448a-83e6-05f056b5f42f)
-
-## Requirements
-* python3.8
-* ultralytics
-* pytroch
-* pandas
-* numpy 
-* opencv
