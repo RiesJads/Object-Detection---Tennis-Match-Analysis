@@ -7,6 +7,7 @@ The project includes the training of 2 YOLO models and CNN Resnet50
 + Resnet50 for marking key points on the courts
 
 ## Demo Result
+![screenshot](https://github.com/user-attachments/assets/d806e6ea-0a4a-4c8b-b8e0-0fac44c5f689)
 
 
 ## Training & Validation Data
