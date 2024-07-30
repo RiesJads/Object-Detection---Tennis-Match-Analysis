@@ -1,4 +1,4 @@
-![fed59_jpg rf 1638258685d0cf43ca8e55bc7a3f017a](https://github.com/user-attachments/assets/23a2ba0e-3d84-4a9a-88c5-e9a06d0f4a81)
+
 # Tennis Analysis
 Analysis of Tennis players in a video to measure their speed, ball shot speed and number of shots. This project will detect players and the tennis ball using YOLO and CNNs to extract court key points. 
 The project includes the training of 2 YOLO models and CNN Resnet50
